@@ -15,5 +15,5 @@ Convite de Festa de 1 Ano com o tema da Galinha Pintadinha
 FRENTE:
 ![convite-frente.png](https://github.com/cotelha/fontes-artes-graficas/blob/master/convite-um-aninho/convite-frente.png) 
 
-VERSOE:
+VERSO:
 ![convite-verso.png](https://github.com/cotelha/fontes-artes-graficas/blob/master/convite-um-aninho/convite-verso.png) 
